@@ -1,8 +1,8 @@
 <p align="center">
-  <img alt="Logo" src="https://github.com/CourseNotesBTH/FY1420/raw/master/logo.png">
+  <img alt="Logo" src="https://github.com/CourseNotesBTH/DV1587/raw/master/logo.png">
 </p>
 
-FY1420 - Physics 101
+DV1587 - Database Engineering
 ======
 
 Course notes and the like for DV1587 - Database Engineering
